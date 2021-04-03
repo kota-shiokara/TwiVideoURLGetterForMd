@@ -10,6 +10,7 @@
   
 使用例  
 [![Video thumbneil](https://pbs.twimg.com/ext_tw_video_thumb/1378422960361332736/pu/img/2tsEgqL_W02GN019.jpg)](https://twitter.com/kotambourine/status/1378423807078137857/video/1)  
+[![Video thumbneil](https://pbs.twimg.com/ext_tw_video_thumb/1378400914164183040/pu/img/AGs8rPJ4g5J33MyD.jpg)](https://twitter.com/kotambourine/status/1378400950293917696/video/1)　　
   
 ## 参考記事
 - [Atria64/MarkdownUrlGenerator](https://github.com/Atria64/MarkdownUrlGenerator)
